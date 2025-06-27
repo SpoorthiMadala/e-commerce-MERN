@@ -25,7 +25,7 @@ Welcome to the **e-commerce-MERN** project! This is a dynamic e-commerce applica
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/SpoorthiMadala/e-commerce-MERN.git](https://github.com/SpoorthiMadala/e-commerce-MERN)
+   git clone https://github.com/SpoorthiMadala/e-commerce-MERN
    cd e-commerce-MERN
    ```
 2. Install backend dependencies:
