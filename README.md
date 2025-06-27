@@ -25,8 +25,8 @@ Welcome to the **e-commerce-MERN** project! This is a dynamic e-commerce applica
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SpoorthiMadala/e-commerce MERN.git
-   cd Shopify-MERN-Vite
+   git clone https://github.com/SpoorthiMadala/e-commerce-MERN.git
+   cd e-commerce-MERN
    ```
 2. Install backend dependencies:
 
@@ -75,10 +75,3 @@ Welcome to the **e-commerce-MERN** project! This is a dynamic e-commerce applica
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
 
-### License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-### Acknowledgments
-
-Thanks to the creators of the MERN stack and Vite for their incredible tools that made this project possible!
