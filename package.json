@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "description": "",
+  "author": "Spoorthi Madala",
+  "keywords": ["mern", "ecommerce", "react", "vite", "mongodb", "express"],
   "dependencies": {
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
