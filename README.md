@@ -1,8 +1,8 @@
-# Shopify-MERN-Vite
+# e-commerce-MERN
 
 ## Overview
 
-Welcome to the **Shopify-MERN-Vite** project! This is a dynamic e-commerce application built using the **MERN stack** (MongoDB, Express.js, React, Node.js) with **Vite** as the frontend build tool. The application allows users to browse and manage products in a user-friendly interface.
+Welcome to the **e-commerce-MERN** project! This is a dynamic e-commerce application built using the **MERN stack** (MongoDB, Express.js, React, Node.js) with **Vite** as the frontend build tool. The application allows users to browse and manage products in a user-friendly interface.
 
 ## Features
 
@@ -25,7 +25,7 @@ Welcome to the **Shopify-MERN-Vite** project! This is a dynamic e-commerce appli
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/patricnilackshan/Shopify-MERN-Vite.git
+   git clone https://github.com/SpoorthiMadala/e-commerce MERN.git
    cd Shopify-MERN-Vite
    ```
 2. Install backend dependencies:
